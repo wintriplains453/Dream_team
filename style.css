@@ -26,7 +26,14 @@ body {
     margin-bottom: 20px;
     max-width: 500px;
 }
-        
+.blocks{
+    display: inline-block;
+}
+.block{
+    background-color:aqua ;
+    width: 200px;
+    height: 100px;
+} 
 .button {
     display: inline-block;
     background: white;
